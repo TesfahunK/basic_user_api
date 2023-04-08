@@ -1,0 +1,19 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+out/
+public/
+
+# Miscellaneous
+.DS_Store
+*.pem
